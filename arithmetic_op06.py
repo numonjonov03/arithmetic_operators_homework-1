@@ -7,3 +7,7 @@
 #Print the answer.
  
 #Print the number.
+number=45
+number=45/2
+answer=number/2-number//2
+print(answer)
