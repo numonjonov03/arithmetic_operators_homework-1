@@ -8,6 +8,8 @@
  
 #Print the number.
 number=45
-number=45/2
-answer=number/2-number//2
+number=number/2
+
+answer=abs(round(number) - number)
 print(answer)
+print(number)
